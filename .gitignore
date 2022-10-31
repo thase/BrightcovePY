@@ -16,3 +16,4 @@ packages
 *Test.py
 test_*.py
 test*.py
+account_info.json
